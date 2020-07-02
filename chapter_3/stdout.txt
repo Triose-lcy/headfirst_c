@@ -1,0 +1,3 @@
+This msg is from stdin: This msg will be inputted to stdin
+
+This msg will be printed to stdout
